@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>A MUDDALAN</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="FFFFFF">
+
+<CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
+
+<HR>
+
+<a href="http://somegreatsite.com">Link Name</a>
+
+is a link to my github
+
+<H1>HELLO DEVOPS </H1>
+
+<H2>This is a sample APACHE example</H2>
+
+Send me mail at <a href="mailto:support@yourcompany.com">
+
+support@yourcompany.com</a>.
+
+<P> This is a new paragraph!
+
+<P> <B>u r looking at apache server!</B>
+
+<BR> <B><I>we have setup the apache sever with ansi role, in bold italics.</I></B>
+
+<HR>
+
+</BODY>
+
+</HTML>
