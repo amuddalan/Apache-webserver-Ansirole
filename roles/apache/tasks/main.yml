@@ -45,3 +45,8 @@
     name: "{{ apache_service }}"
     state: "{{ apache_state }}"
     enabled: true
+  copy:
+    nsrc: ./anil
+    dest: /var/www/html
+
+
