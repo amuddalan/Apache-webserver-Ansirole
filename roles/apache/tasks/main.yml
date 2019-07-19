@@ -42,7 +42,7 @@
   
 - name: put html on /var/www/html
   copy:
-    nsrc: ./anil
+    src: ./anil
     dest: /var/www/html
 
 - name: Ensure Apache has selected state and enabled on boot.
